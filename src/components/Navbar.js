@@ -30,7 +30,7 @@ function Navbar() {
         </button>
       </div>
       <div className="links">
-        <Link to="/MahendraPortfolio" onClick={handleLinkClick}> Home </Link>
+        <Link to="/Mahendra-Portfolio" onClick={handleLinkClick}> Home </Link>
         <Link to="/projects" onClick={handleLinkClick}> Projects </Link>
         <Link to="/experience" onClick={handleLinkClick}> Experience </Link>
       </div>

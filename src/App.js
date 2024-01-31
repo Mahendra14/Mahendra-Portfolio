@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar />
         <div className="layout"><Routes>
-          <Route path="/MahendraPortfolio/" element={<Home />} />
+          <Route path="/Mahendra-Portfolio/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<ProjectDisplay />} />
           <Route path="/experience" element={<Experience />} />
