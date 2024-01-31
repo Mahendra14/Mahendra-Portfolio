@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/MahendraPortfolio/static/css/main.81cf0330.css",
-    "main.js": "/MahendraPortfolio/static/js/main.246fb6f4.js",
-    "static/js/787.fb771931.chunk.js": "/MahendraPortfolio/static/js/787.fb771931.chunk.js",
-    "static/media/cars.jpeg": "/MahendraPortfolio/static/media/cars.8bf081a448de0edb729b.jpeg",
-    "static/media/jira.png": "/MahendraPortfolio/static/media/jira.51c112ec33e0e836e720.png",
-    "static/media/theme.png": "/MahendraPortfolio/static/media/theme.7bd7bb0f36f44f215cda.png",
-    "static/media/got.png": "/MahendraPortfolio/static/media/got.2567b69c4321c0e349e3.png",
-    "static/media/groceryBuddy.webp": "/MahendraPortfolio/static/media/groceryBuddy.5e982901c326439ba197.webp",
-    "static/media/proj2.jpg": "/MahendraPortfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
-    "static/media/ttt.png": "/MahendraPortfolio/static/media/ttt.dba5fd1f5cd3c495733a.png",
-    "static/media/typing.png": "/MahendraPortfolio/static/media/typing.6cd6b630906b51d04dcd.png",
-    "static/media/taskTracker.jpg": "/MahendraPortfolio/static/media/taskTracker.08b0b0d65f34714e86fc.jpg",
-    "static/media/proj1.jpg": "/MahendraPortfolio/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
-    "static/media/proj4.webp": "/MahendraPortfolio/static/media/proj4.21aa3100d2e1859f6029.webp",
-    "static/media/proj3.png": "/MahendraPortfolio/static/media/proj3.7a5374fd3d5a1d3eeae2.png",
-    "index.html": "/MahendraPortfolio/index.html",
-    "main.81cf0330.css.map": "/MahendraPortfolio/static/css/main.81cf0330.css.map",
-    "main.246fb6f4.js.map": "/MahendraPortfolio/static/js/main.246fb6f4.js.map",
-    "787.fb771931.chunk.js.map": "/MahendraPortfolio/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/Mahendra-Portfolio/static/css/main.81cf0330.css",
+    "main.js": "/Mahendra-Portfolio/static/js/main.8a4247d0.js",
+    "static/js/787.fb771931.chunk.js": "/Mahendra-Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/cars.jpeg": "/Mahendra-Portfolio/static/media/cars.8bf081a448de0edb729b.jpeg",
+    "static/media/jira.png": "/Mahendra-Portfolio/static/media/jira.51c112ec33e0e836e720.png",
+    "static/media/theme.png": "/Mahendra-Portfolio/static/media/theme.7bd7bb0f36f44f215cda.png",
+    "static/media/got.png": "/Mahendra-Portfolio/static/media/got.2567b69c4321c0e349e3.png",
+    "static/media/groceryBuddy.webp": "/Mahendra-Portfolio/static/media/groceryBuddy.5e982901c326439ba197.webp",
+    "static/media/proj2.jpg": "/Mahendra-Portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/ttt.png": "/Mahendra-Portfolio/static/media/ttt.dba5fd1f5cd3c495733a.png",
+    "static/media/typing.png": "/Mahendra-Portfolio/static/media/typing.6cd6b630906b51d04dcd.png",
+    "static/media/taskTracker.jpg": "/Mahendra-Portfolio/static/media/taskTracker.08b0b0d65f34714e86fc.jpg",
+    "static/media/proj1.jpg": "/Mahendra-Portfolio/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/proj4.webp": "/Mahendra-Portfolio/static/media/proj4.21aa3100d2e1859f6029.webp",
+    "static/media/proj3.png": "/Mahendra-Portfolio/static/media/proj3.7a5374fd3d5a1d3eeae2.png",
+    "index.html": "/Mahendra-Portfolio/index.html",
+    "main.81cf0330.css.map": "/Mahendra-Portfolio/static/css/main.81cf0330.css.map",
+    "main.8a4247d0.js.map": "/Mahendra-Portfolio/static/js/main.8a4247d0.js.map",
+    "787.fb771931.chunk.js.map": "/Mahendra-Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81cf0330.css",
-    "static/js/main.246fb6f4.js"
+    "static/js/main.8a4247d0.js"
   ]
 }
