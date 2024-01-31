@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MahendraPortfolio/static/css/main.81cf0330.css",
-    "main.js": "/MahendraPortfolio/static/js/main.cdb30ef2.js",
+    "main.js": "/MahendraPortfolio/static/js/main.9bc8e4c0.js",
     "static/js/787.fb771931.chunk.js": "/MahendraPortfolio/static/js/787.fb771931.chunk.js",
     "static/media/cars.jpeg": "/MahendraPortfolio/static/media/cars.8bf081a448de0edb729b.jpeg",
     "static/media/jira.png": "/MahendraPortfolio/static/media/jira.51c112ec33e0e836e720.png",
@@ -17,11 +17,11 @@
     "static/media/proj3.png": "/MahendraPortfolio/static/media/proj3.7a5374fd3d5a1d3eeae2.png",
     "index.html": "/MahendraPortfolio/index.html",
     "main.81cf0330.css.map": "/MahendraPortfolio/static/css/main.81cf0330.css.map",
-    "main.cdb30ef2.js.map": "/MahendraPortfolio/static/js/main.cdb30ef2.js.map",
+    "main.9bc8e4c0.js.map": "/MahendraPortfolio/static/js/main.9bc8e4c0.js.map",
     "787.fb771931.chunk.js.map": "/MahendraPortfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81cf0330.css",
-    "static/js/main.cdb30ef2.js"
+    "static/js/main.9bc8e4c0.js"
   ]
 }
