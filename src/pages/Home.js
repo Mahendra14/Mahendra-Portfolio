@@ -24,15 +24,17 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, I am Mahendra Kumar Raichur</h2>
+        <h2> Hi, I'm Mahendra Kumar Raichur</h2>
         <div className="prompt">
           <p>A Full Stack Developer with a passion for learning and creating.</p>
           <LinkedInIcon onClick={() => handleIconClick('https://www.linkedin.com/in/mahendra-raichur/')}/>
           <EmailIcon onClick={handleEmailClick} />
           <GithubIcon onClick={() => handleIconClick('https://github.com/Mahendra14')}/>
-          <div>
-          <DownloadButton /> 
-          </div>
+          <br/>
+            <span style={{ display: 'flex', gap: '10px' }}>
+          <DownloadButton name="View Resume" resumeLink={"https://docs.google.com/document/d/1n0wyhQ3wiLRLtXh4dO0qLQFaTjMb7mRB/edit?usp=sharing&ouid=117966507979020320122&rtpof=true&sd=true"}/> 
+            <DownloadButton name="Download Resume" isArrow="True" resumeLink={`https://drive.google.com/uc?export=download&id=1n0wyhQ3wiLRLtXh4dO0qLQFaTjMb7mRB`}/>  
+            </span>
         </div>
       </div>
       <div className="skills">
