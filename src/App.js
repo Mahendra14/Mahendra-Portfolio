@@ -10,10 +10,10 @@ import ProjectDisplay from "./pages/ProjectDisplay";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router baseUrl="/MahendraPortfolio">
         <Navbar />
         <div className="layout"><Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/MahendraPortfolio/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<ProjectDisplay />} />
           <Route path="/experience" element={<Experience />} />
