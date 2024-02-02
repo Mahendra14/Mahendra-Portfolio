@@ -72,7 +72,7 @@ export const ProjectList = [
     name: "Game Of Thrones Quiz",
     image: got,
     skills: "Node, CLI",
-    ghlink: "https://github.com/Mahendra14"
+    ghlink: "https://github.com/Mahendra14/GOTFandom_cli_app"
   },
 
 ];
