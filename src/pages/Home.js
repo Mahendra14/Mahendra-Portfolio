@@ -27,22 +27,22 @@ function Home() {
         <h2> Hi, I'm Mahendra Kumar Raichur</h2>
         <div className="prompt">
           <p>A Full Stack Developer with a passion for learning and creating.</p>
-          <LinkedInIcon onClick={() => handleIconClick('https://www.linkedin.com/in/mahendra-raichur/')}/>
+          <LinkedInIcon onClick={() => handleIconClick('https://www.linkedin.com/in/mahendra-raichur/')} />
           <EmailIcon onClick={handleEmailClick} />
-          <GithubIcon onClick={() => handleIconClick('https://github.com/Mahendra14')}/>
-          <br/>
-            <span style={{ display: 'flex', gap: '10px' }}>
-          <DownloadButton name="View Resume" resumeLink={"https://docs.google.com/document/d/1n0wyhQ3wiLRLtXh4dO0qLQFaTjMb7mRB/edit?usp=sharing&ouid=117966507979020320122&rtpof=true&sd=true"}/> 
-            <DownloadButton name="Download Resume" isArrow="True" resumeLink={`https://drive.google.com/uc?export=download&id=1n0wyhQ3wiLRLtXh4dO0qLQFaTjMb7mRB`}/>  
-            </span>
+          <GithubIcon onClick={() => handleIconClick('https://github.com/Mahendra14')} />
+          <br />
+          <span style={{ display: 'flex', gap: '10px' }}>
+            <DownloadButton name="View Resume" resumeLink={"https://docs.google.com/document/d/1n0wyhQ3wiLRLtXh4dO0qLQFaTjMb7mRB/edit?usp=sharing&ouid=117966507979020320122&rtpof=true&sd=true"} />
+            <DownloadButton name="Download Resume" isArrow="True" resumeLink={`https://drive.google.com/uc?export=download&id=1n0wyhQ3wiLRLtXh4dO0qLQFaTjMb7mRB`} />
+          </span>
         </div>
       </div>
       <div className="skills">
         <h1> Skills</h1>
         <ol className="list">
-        <li className="item">
+          <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, Java, Python, TypeScript, Go, C, C++, SQL, Ruby</span>
+            <span>JavaScript, Java, Python, TypeScript, Go, C, SQL, Ruby</span>
           </li>
           <li className="item">
             <h2> Front-End</h2>
@@ -65,8 +65,14 @@ function Home() {
             </span>
           </li>
           <li className="item">
+            <h2>AI & Data Science</h2>
+            <span>
+              LlamaCloud, Unstructured, Hugging Face, A/B Testing, AI Model Development, Automation
+            </span>
+          </li>
+          <li className="item">
             <h2>Tools</h2>
-            <span>Elastic Search, Kibana, Kafka, LogStash, Grafana, Visual Studio, Agile, Scrum, JIRA</span>
+            <span>Elastic Search, Kibana, Kafka, LogStash, Grafana, Visual Studio, Agile, Scrum, JIRA, Data Bricks</span>
           </li>
         </ol>
       </div>
